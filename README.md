@@ -28,7 +28,6 @@ The ability to create, update, and delete data in the database
 
 I utilized class content, w3schools, and youtube.
 
-<img src = "https://github.com/brodi-xx/note-pad/blob/main/public/assets/Application-image.png?raw=true">
 
 ## License
 

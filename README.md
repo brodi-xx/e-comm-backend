@@ -2,19 +2,10 @@
 
 ## Description
 
-An app with the ablility to write and save notes, so that a user can organize their thoughts and keep track of tasks that need to be complete
+This app will eventually be a functioning backend e-comm's website.
 
-The application has a db.json file db on the back end that is used to store and retrieve notes using the fs module.
-
-The following HTML routes have been created:
-
-GET /notes returns notes.html file.
-
-GET * returns the index.html file.
-
-GET /api/notes reads the db.json file and return all saved notes as JSON.
-
-POST /api/notes should receives a new note to save on the body and added to the db.json file, and then returns the new note to the client. Each note has a unique id when it's saved using the uuid package
+Below is a video of what I was able to complete thus far:
+https://drive.google.com/file/d/1y4zEIgKIbPQZ1I0j64rJY0S3O-X5XeyL/view 
 
 ## Table of Contents
 
@@ -27,15 +18,15 @@ POST /api/notes should receives a new note to save on the body and added to the 
 
 ## Installation
 
-To install the application, you would pull the files from my repo and install node and express.js
+Clone the repo and install the necessary packages
 
 ## Usage
 
-Once you have the file running, you are able to add, save, delete your notes
+The ability to create, update, and delete data in the database
 
 ## Credits
 
-I utilized a tutoring session with Scott who is a TA as well as a youtube tutorial on routes and class content
+I utilized class content, w3schools, and youtube.
 
 <img src = "https://github.com/brodi-xx/note-pad/blob/main/public/assets/Application-image.png?raw=true">
 
@@ -45,8 +36,7 @@ MIT
 
 ## Contributing
 
-Use my information below
-
+UT Bootcamp provided starter code
 
 ## Questions
 
